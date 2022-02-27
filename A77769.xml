@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Balaams asse, or The city-fast for cursing the King: and blessing Oliver. VVith the peoples speech to their independent drivers. And the asses sacrifice, or good speed to Oliver.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77769</idno>
+            <idno type="STC">Wing B538</idno>
+            <idno type="STC">Thomason E564_7</idno>
+            <idno type="STC">ESTC R206097</idno>
+            <idno type="EEBO-CITATION">99865282</idno>
+            <idno type="PROQUEST">99865282</idno>
+            <idno type="VID">165261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165261)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E564[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Balaams asse, or The city-fast for cursing the King: and blessing Oliver. VVith the peoples speech to their independent drivers. And the asses sacrifice, or good speed to Oliver.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Poetry --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165261:1" rendition="simple:additions"/>
+            <p>Balaams Aſse, OR THE CITY-FAST FOR Curſing the KING: and Bleſsing OLIVER.</p>
+            <p>VVith the Peoples SPEECH to their <hi>Independent Drivers.</hi>
+            </p>
+            <p>And the Aſſes Sacrifice, or good ſpeed to OLIVER.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>July 13<hi rend="sup">th</hi>
+               </add> Printed in the Yeare 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:165261:2"/>
+            <pb n="1" facs="tcp:165261:2"/>
+            <head>BALAAMS ASSE: OR, The City-Faſt, for Curſing the KING: <hi>And Bleſsing</hi> OLIVER.</head>
+            <l>WHether for gain, wil our blind <hi>Prophets</hi> ride?</l>
+            <l>Whether will Lucre carry them, and Pride?</l>
+            <l>They'le ride o're <hi>Angels, Curſe,</hi> doe any thing:</l>
+            <l>Curſe not <hi>(ſayes God)</hi> yes, they will curſe the <hi>King;</hi>
+            </l>
+            <l>Not in their <hi>heart,</hi> in that cloſe corner, no,</l>
+            <l>They will begin to God, and <hi>Face</hi> him too.</l>
+            <l>As if they'nd <hi>Ormond</hi> Exorcize by Spells,</l>
+            <l>They'l raiſe his ſiege with <hi>Books,</hi> new <hi>Lights,</hi> &amp; <hi>Bels</hi>
+            </l>
+            <l>
+               <hi>Goodwyn</hi> will preach down Batteries, and ſpout</l>
+            <l>Out his <hi>hold-forths,</hi> that <hi>Dublin</hi> may <hi>hold out.</hi>
+            </l>
+            <l>
+               <hi>Peters</hi> has chang'd his Tub, and though much ſpent</l>
+            <l>Will ſhew his guift for <hi>Pox,</hi> and <hi>parliament.</hi>
+            </l>
+            <l>How lean the <hi>Saint</hi> looks with his Rogueries!</l>
+            <l>H' has been with <hi>Rahab</hi> entertaining Spies:</l>
+            <l>How he wheezes againſt <hi>Rupert!</hi> his blew lips</l>
+            <pb n="2" facs="tcp:165261:3"/>
+            <l> Shew, that his <hi>ſtraits</hi> do vex him more then ſhips.</l>
+            <l>The Prophet ſure hath ſprung a <hi>Leak;</hi> good daughter</l>
+            <l>Helpe for to ſtop him ſhot, twixt wind, and water.</l>
+            <l>Harke how th' Inchanters do conjure? Tis <hi>Spell:</hi>
+            </l>
+            <l>The text is <hi>Gods</hi> the comment is from <hi>Hell.</hi>
+            </l>
+            <l>So witches ſay the Pater Noſter; (<hi>Strong</hi>
+            </l>
+            <l>
+               <hi>Carill,</hi> and <hi>Bond</hi> do not, <hi>I</hi> do them wrong,)</l>
+            <l>They cannot ſay that prayer, that ſtriks them dumb</l>
+            <l>To thinke of Gods, or any <hi>Kingdome</hi> come.</l>
+            <l>Look how they wrack the Scriptures as their faces,</l>
+            <l>
+               <hi>Mount Roſſe</hi> and <hi>Ormond</hi> are their <hi>Common-places</hi>
+            </l>
+            <l>Theſe two are called <hi>Jabin</hi> and <hi>Siſera,</hi>
+            </l>
+            <l>And <hi>Lamberts</hi> wife the <hi>Jael</hi> of the <hi>day,</hi>
+            </l>
+            <l>
+               <hi>Crumwell</hi> muſt drive the <hi>Nayle, It followes,</hi> (marke</l>
+            <l>Beloved Forreſters of your <hi>New-Parke,</hi>)</l>
+            <l>The filthy <hi>Swedes,</hi> and <hi>Danes</hi> that gainſt you ſight,</l>
+            <l>They are the <hi>Hagarens</hi> and <hi>Moabite,</hi>
+            </l>
+            <l>
+               <hi>Oneal</hi> is <hi>Og, Clanrickard Sihon</hi> grimme,</l>
+            <l>
+               <hi>Dillon</hi> and <hi>Taſſ</hi> the ſonnes or <hi>Anakim,</hi>
+            </l>
+            <l>
+               <hi>Rupert</hi> is <hi>Hiram,</hi> who in <hi>Shittini</hi> wood</l>
+            <l>Plunders our Merchants for our <hi>Solomons</hi> good,</l>
+            <l>Not to be too profain in verſe, (as thoſe</l>
+            <l>Who ſtand three houres prophaner far in proſe)</l>
+            <l>This leventh of July's Moſt abſurdly ſpent,</l>
+            <l>T'abuſe Gods will in either Teſtament,</l>
+            <pb n="3" facs="tcp:165261:3"/>
+            <l> To drive an <hi>Aſſe,</hi> (Theſe Prophets drive the Aſſe</l>
+            <l>The People) gainſt the <hi>Angell</hi> in the <hi>Paſſe.</hi>
+            </l>
+            <l>'T would make a <hi>Beaſt</hi> to ſpeak: A word or tway</l>
+            <l>Suffer good <hi>Balaams</hi> from your <hi>Aſſe</hi> I pray.</l>
+            <div type="part">
+               <head>Balaams Aſſe. <hi>Or,</hi> The Peoples ſpeech to their Independent drivers.</head>
+               <lg>
+                  <l>HAve I not ſerv'd you now theſe ful ſeven years</l>
+                  <l>Have I not <hi>prickt</hi> to all you ſaid, theſe <hi>Eares,</hi>
+                  </l>
+                  <l>Theſe moſt attentive Luggs? and have not I</l>
+                  <l>Drawn you the <hi>Dunces</hi> out of poverty,</l>
+                  <l>The mire of Conventicles? that you dare,</l>
+                  <l>Appear in publicke, with your <hi>Parlour</hi> ware,</l>
+                  <l>Do you not eate by me, is not your Silke</l>
+                  <l>Your ſtipend, dyet, All of <hi>Aſses milke?</hi>
+                  </l>
+                  <l>How have you ſquees'd my teates, O covetous Brood</l>
+                  <l>You draw not milke, now, but the very blood:</l>
+                  <l>Was ever ſuch an Aſſe (though well to paſſe,</l>
+                  <l>
+                     <hi>Pembroke</hi> himſelfe is not a hunger Aſſe,)</l>
+                  <l>The Prophet rode this Aſſe, ſo doe you me,</l>
+                  <l>Now <hi>Jocky Saints,</hi> late for <hi>Presbytery.</hi>
+                  </l>
+                  <l>But now ſince that the <hi>Angell</hi> of the <hi>Land</hi>
+                  </l>
+                  <l>Stands with his <hi>Booke,</hi> not ſword in his juſt hand,</l>
+                  <pb n="4" facs="tcp:165261:4"/>
+                  <l> Shewing my follies, and cryes <hi>Aſſe</hi> return;</l>
+                  <l>O how my angry <hi>Balaams</hi> furies burn!</l>
+                  <l>How they doe ſwitch and goad the <hi>Tutord Beaſt!</hi>
+                  </l>
+                  <l>Holding forth Swords and Muskets at my breaſt,</l>
+                  <l>And drive me on, through that milde <hi>Angels</hi> word,</l>
+                  <l>Upon another, with a flaming Sword.</l>
+               </lg>
+               <lg>
+                  <l>I ſee thee (bleſſed Angell) and thy book,</l>
+                  <l>And will not on, but on thy ſufferings look!</l>
+                  <l>When I was fat, I winch'd againſt thy power,</l>
+                  <l>Now lean and lanck, <hi>I</hi> curſe that wanton houre.</l>
+                  <l>Impute not to the <hi>Aſſe,</hi> (unleſſe it be</l>
+                  <l>Before enlightened by thy <hi>Book,</hi> and <hi>Thee</hi>)</l>
+                  <l>His bold adventures: But when <hi>Lion-like,</hi>
+                  </l>
+                  <l>For thoſe offences, juſt Revenge ſhall ſtrike.</l>
+                  <l>Then let that <hi>Lion</hi> the falſe <hi>Prophets</hi> ſtay,</l>
+                  <l>But let thy couzend <hi>Aſſe</hi> eſcape away.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Aſſes Sacrifice, <hi>Or,</hi> Good ſpeed to <hi>Oliver.</hi>
+               </head>
+               <lg>
+                  <l>VVHether by <hi>Land,</hi> or <hi>Sea,</hi> thy <hi>Army</hi> go,</l>
+                  <l>Like <hi>Earth</hi> as <hi>Corah, Seas,</hi> as <hi>Pharo</hi> know;</l>
+                  <l>And though our <hi>Albion</hi> ſhoars are white, we wou'd</l>
+                  <pb n="5" facs="tcp:165261:4"/>
+                  <l> Have them made <hi>Rubicon</hi> with your own blood.</l>
+                  <l>Such faith as to your <hi>King</hi> you ſhew'd, find yee:</l>
+                  <l>Be all the Elements your Enemy.</l>
+                  <l>May you be beat by ſhot, you ſcorn, your lot</l>
+                  <l>Be it to fall by your late beaten <hi>Scot.</hi>
+                  </l>
+                  <l>That in the blood of this high couzening <hi>Saint,</hi>
+                  </l>
+                  <l>They may yet purge their cheating <hi>Covenant,</hi>
+                  </l>
+                  <l>But if from <hi>Cheſter</hi> you for <hi>Ireland</hi> go,</l>
+                  <l>let the divided waves your black graves ſhow.</l>
+                  <l>And foaming <hi>Rupert</hi> like a <hi>Mercury,</hi>
+                  </l>
+                  <l>Drive your proud Soules to their juſt deſtiny.</l>
+                  <l>Or, if you land in <hi>Ireland;</hi> Bee it true,</l>
+                  <l>
+                     <hi>Ireland</hi> all <hi>Vermine</hi> kills, and prov'd in you.</l>
+               </lg>
+               <lg>
+                  <l>O for a clap of Thunder to applaud</l>
+                  <l>The wiſh! Revenge for <hi>Charles, Strafford,</hi> &amp; <hi>Laud</hi>
+                  </l>
+                  <l>Revenge for <hi>Capel, Lucas, Lifle,</hi> and when</l>
+                  <l>You'r ſhipd; let the <hi>Sea Roare</hi> a ſhrill</l>
+               </lg>
+               <p>
+                  <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
